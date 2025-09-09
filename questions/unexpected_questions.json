@@ -1,0 +1,330 @@
+{
+  "recycling": {
+    "description": [
+      "I would like to know how recycling is practiced in your country. What do people do when they do recycling? Tell me how things are recycled.",
+      "Tell me about all the different kinds of things that you recycle. Please describe in detail."
+    ],
+    "routine": [
+      "Tell me what recycling was like when you were a kid. Describe what it was like and what you did."
+    ],
+    "experience": [
+      "Are there any issues regarding recycling? Have you seen any news related to recycling recently? Give me all the details about any issues on recycling.",
+      "Sometimes there are some problems when you do recycling. Tell me about your memorable experience related to recycling"
+    ],
+    "comparison": [
+      "How was the recycling you practiced when you were young? How is it different from what you today? Please give me all the details."
+    ]
+  },
+
+  "appointment": {
+    "description": [
+      "People make many different kinds of appointments. What kinds of appointments do you usually make with people around you? How do you make appointments? Tell me in detail."
+    ],
+    "routine": [
+      "What kind of things do you normally do when making an appointment? Tell me about all the steps that you take in order to make an appointment from the beginning to the end."
+    ],
+    "experience": [
+      "Tell me about one experience when you had to cancel an appointment you made. What happened? Why did you have to cancel the appointment and how deal with it? Give as many details as you can.",
+      "What was the last appointment you made? What was it about? Who did you meet, and what did you do with him or her? Please tell me everything about what you did"
+    ],
+    "comparison": [
+      "How did you usually make appointments when you were younger? How is it different from the way you make appointments today?",
+      "In the past, people made appointments differently compared to now. Can you compare how you used to make appointments with how you do it these days?"
+    ]
+  },  
+
+  "bank": {
+    "description": [
+      "Tell me about the bank you go to. Where is it located? What is it like? Please give me all the details.",
+      "Please tell me about the banks in your country. When do they open and close? What do they look like?"
+    ],
+    "routine": [
+      "What do you do from the moment you walk into the bank until you walk out? Tell me every detail when you visit the bank.",
+      "What do people usually do at the bank? Why do you go to the bank and what do you usually do there?"
+    ],
+    "experience": [
+      "Problems can occur once you visit the bank. Maybe you could have forgotten to take you ID card. Tell me about the problem you had at a bank. Tell me about the circumstance as vividly as possible.  How did you solve the problem?",
+      "When was the last time you went to the bank? Why did you go to the bank and what did you do there? Please tell me about it in detail from the beginning to the end."
+    ],
+    "comparison": [
+      "Banks have changed a lot over the years. How were the banks like when you were young? How are they different from what they look like now?"
+    ]
+  },
+
+  "cellphone": {
+    "description": [
+      "Describe your phone for me. What type of phone is it? What do you particularly like about this phone? Aside from talking, what other things do you typically do with your phone? Please provide as many details as possible."
+    ],
+    "routine": [
+      "Tell me about the apps or functions you use most often on your phone. What do you usually do with them, and why are they important in your daily life?"
+    ],
+    "experience": [
+      "Explain the reasons why talking on the phone became important to you. At what age did you first start communicating with your friends on the telephone? Discuss everything that you can remember when you first started talking on the phone.",
+      "Think about whether you have ever experienced a problem with your cell phone. Describe the situation including the specific problems you were having, why the problem was memorable, and how it became resolved.",
+      "Do you remember the first time that you bought a cell phone? What was it like? Please describe your first cell phone in as much detail as possible."
+    ],
+    "comparison": [
+      "Tell me about your cell phone. What are the differences between the phone you used in the past and the phone that you use recently? Give me many details.",
+      "How was the technology you use changed over the year? What is different between the technology you use today and the technology you used in the past?"
+    ]
+  },
+
+  "geography": {
+    "description": [
+      "Describe your country’s geography. Are there many mountains, rivers, or other landforms? Is there a seashore part of the geography? Tell me about the layout of your country’s land in detail.",
+      "What kind of climate does your country have because of its geography? Please explain how the geography affects the weather in each season."
+    ],
+    "routine": [
+      "What kinds of activities do people in your country do using geographical features? Do they go hiking, swimming, or riding a bicycle? What are the differences from other countries? Please give me all the details.",
+      "Tell me about a typical weekend activity people enjoy in your country that is connected to geography. Who do they go with, and what do they usually do?"
+    ],
+    "experience": [
+      "Tell me about a unique landform you saw when you were a child. When was it, and where did you go? Did you go there with your friends or parents? Why did you visit there? And what did you see? Describe what did you see and what happened in detail.",
+      "Have you ever faced difficulties because of your country’s geography? For example, maybe mountains or rivers made it hard to travel. Tell me what happened in detail."
+    ],
+    "comparison": [
+      "Compare the geography of your country with another country you know. What are the main differences in landforms, weather, or activities people do?"
+    ]
+  },
+
+  "gathering": {
+    "description": [
+      "Discuss some of the gatherings or celebrations in your country. What are the things people usually do when they get together? Provide several details regarding your gatherings.",
+      "Talk about celebrations or gatherings in South Korea. What do people usually do when people get together? Please be as specific as possible about the meeting or celebration."
+    ],
+    "routine": [
+      "What kinds of gatherings do you regularly attend, such as family dinners, holiday parties, or school reunions? Please give me all the details."
+    ],
+    "experience": [
+      "Reflect upon the last gathering or celebration that you attended. Explain the activities that went on and what you did during this occasion. Talk about this event from the start to finish.",
+      "Could you think back to a particularly memorable experience at a gathering or celebration? Perhaps it was a very enjoyable experience when something humorous or surprising occurred. Describe this experience and clarify what made this experience so unforgettable. "
+    ],
+    "comparison": [
+      "Compare the gatherings you attended when you were younger with the ones you attend these days. What are the main differences?"
+    ]
+  },  
+
+  "restuarant": {
+    "description": [
+      "I would like to know about restaurants in your country. What do typical restaurants look like? What kind of food do they commonly offer? How often do you personally go to those types of places?",
+      "Tell me about take-out of delivery restaurants you like? How often do you eat from there? what are they like? What kind of food do they offer?"
+    ],
+    "routine": [
+      "Tell me what you usually do when you eat at a restaurant. What do you do first, second, etc?",
+      "Walk me through the process of ordering food at a restaurant in your country. What do people usually do, and how is it different from other countries?"
+    ],
+    "experience": [
+      "Can you tell me about the last time you ate something from take-out or delivery restaurant? Where did you go? And who did you go with? What did you eat at the restaurant?",
+      "While going to a restaurant, have you ever had some sort of unique or memorable experience? Maybe an unusual event occurred during the meal, someone got lost on the way, or someone found him/herself in a delay due to an accident. Discuss this situation from beginning to end."
+    ],
+    "comparison": [
+      "What kinds of changes in restaurants or eating out have you noticed over the last few years?"
+    ]
+  },  
+
+  "technology": {
+    "description": [
+      "Please tell me about some of the technologies people usually use in your country. What are some common forms of technology that people use? And why do they use them?",
+      "What kind of technology did you usually use? What role did the technology play? Describe it as much detail as possible.",
+      "Think of a project that you once worked on where technology made a big difference. Describe the project in detail. What kind of technology did you use? What role did the technology play?"
+    ],
+    "routine": [
+      "What kinds of technology do you think is used in daily life? What technology do you enjoy most frequently? Why do you think you use that technology?"
+    ],
+    "experience": [
+      "Tell me everything you did from beginning to end to learn how to use that particular piece of technology. Who taught you to use it?",
+      "Describe your past experience of learning about a new technology for the first time. What was it, and why did you try it? Describe it as much detail as possible."
+    ],
+    "comparison": [
+      "Technology has rapidly advanced in the modern era. Describe to me one memory you have about a piece of technology. How has that technology changed in the past 10 years?"
+    ]
+  },
+
+  "weather": {
+    "description": [
+      "I would like to know about the weather in your country. What is it like in each season? Please describe in detail.",
+      "How's the weather these days? Is it hot or is it cold? How often does it rain?  Use as many detail as possible."
+    ],
+    "routine": [
+      "How is the weather today at where you live? What are you wearing today? Please tell me every detail about how's the weather like and what you wear now."
+    ],
+    "experience": [
+      "Have you ever experienced a memorable moment related to weather? Please tell me what happened and why is it memorable.",
+      "Tell me about the unexpected incident related to severe weather. What was the problem and how did you deal with the situation? What made that experience unforgettable to you?"
+    ],
+    "comparison": [
+      "Are there any changes in the weather/season in your country? How's the weather/season changed since you were a child? Give me as many details as you can."
+    ]
+  },
+
+  "holidays": {
+    "description": [
+      "Let's talk about holidays in your country. What kinds of holidays are there? What holidays are popular? How do people typically celebrate the holidays? Please tell me a detailed description of holidays in your country.",
+      "What is your favorite holiday in your country? Why do you like it, and how do you usually celebrate it?"
+    ],
+    "routine": [
+      "What is the biggest holiday in your country? How do people celebrate it? What kinds of activities do people usually do during that holiday? Please tell me about all the details."
+    ],
+    "experience": [
+      "Tell me about a memorable or unforgettable holiday memory you had in your childhood. Where were you on that day? Who did you spend that holiday with?? What did you do? Explain all the experiences in detail.",
+      "Tell me about a holiday memory from your childhood. Where were you on that day? Who did you spend it with, and what did you do?",
+      "Tell me about the most recent holiday you celebrated. Walk me through everything you did from morning until night."
+    ],
+    "comparison": [
+      "Have holidays or holiday customs in your country changed over the years? Are they different from what they used to be? If so, tell me about the changes holidays have gone through."
+    ]
+  },  
+
+  "furniture": {
+    "description": [
+      "Tell me about your favorite piece of furniture in your house. What furniture do you have? What does it look like, and what do you like about the furniture? Describe it in detail.",
+      "What type of furniture do you have in your home? Do you furnish your home with a particular style of furniture? Is there a specific place where you prefer to purchase your furniture? Is there any piece of furniture that has a special value to you? Why?"
+    ],
+    "routine": [
+      "Can you tell me about a piece of furniture you bought recently for some reason? What was it? Why did you buy it? Where did you buy it?"
+    ],
+    "experience": [
+      "Have you ever had any problems with your furniture? Was it broken, or did it get stained or ripped? What happened? How did you solve this problem? Tell me everything from beginning to end.",
+      "When did you purchase new furniture recently? What item did you buy? Where did you buy it? Were you satisfied with your choice? Please tell me about the memorable experience in as much detail as possible."
+    ],
+    "comparison": [
+      "Talk about the furniture that you had when you were young. How was it different from the furniture that you currently use?"
+    ]
+  }, 
+  
+  "internet": {
+    "description": [
+      "Tell me about your favorite website or type of website you visit. Why do you like it? Give me as many details as you can.",
+      "What kind of things do you do on the Internet? Do you find out about new things or do you shop for stuff online?Tell me about the most typical things that you do on the Internet."
+    ],
+    "routine": [
+      "Eveyone uses the internet these days. Where and when do you use it? What do you mainly use the interent for?"
+    ],
+    "experience": [
+      "Have you ever experienced anything unforgettable while surfing internet? What was it? When did it happen? Tell me about your memorable experience while surfing the web."
+    ],
+    "comparison": [
+      "Do you surf the internet often? What were website like in the past? Have they changed since you first started surfing the internet? How have they changed? Please compare the websites of today to the websites of the past."
+    ]
+  },    
+
+  "electronic": {
+    "description": [
+      "Tell me about the electronic devices you own. What are they, and how do you usually use them?",
+      "Describe your favorite electronic device. Why do you like it, and how often do you use it?"
+    ],
+    "routine": [
+      "Walk me through a typical day using your electronic devices. From morning until night, what devices do you use, and what do you usually do with them?"
+    ],
+    "experience": [
+      "What technological device do you use the most these days? A cellular phone, laptop computer or any other handheld device? Please tell me about your experience using the device.",
+      "Tell me about a problem you had with an electronic device. What happened, how did you solve it, and what was the outcome?"
+    ],
+    "comparison": [
+      "How has electronic changed over time? What was the device you used like in the past? How is it different from the device you use today?"
+    ]
+  },  
+
+  "house work": {
+    "description": [
+      "Tell me about some household chores you did at home. Did you do the dishes or do the laundry? What else?",
+      "Let’s talk about where you live. How are responsibilities divided in your family and how do you get them done? Tell me about it in detail."
+    ],
+    "routine": [
+      "Tell me about how you get your responsibilities done on your typical day. What are your responsibilities? What steps do you normally take to get them done?"
+    ],
+    "experience": [
+      "I’d like to know what you did at home in your childhood. What were your responsibilities at home? How often did you do it? Who did you do it?",
+      "When was the last time you did any household chores? What steps did you take during your chores? How did your house change after youn finish the chores?"
+    ],
+    "comparison": [
+      "Do you think the way people do housework has changed over time in your country? Compare how people did chores in the past with how they do them today."
+    ]
+  },
+
+  "industry": {
+    "description": [
+      "Talk about one of the rising industries or companies in your country. Why is that industry or company famous, and what is special about it? Do you personally want to work in the industry or company?",
+      "I'd like to know about the most promising industries in your country. Please explain the reason why that industry is successful."
+    ],
+    "routine": [
+      "What industries or companies do people in your country usually pay attention to these days? How do people keep up with the news or trends about them?"
+    ],
+    "experience": [
+      "Have you ever worked in or had experience related to a certain industry? Tell me everything about that experience in detail."
+    ],
+    "comparison": [
+      "Compare the industries that were popular in the past with the ones that are rising these days. How are they different?"
+    ]
+  },    
+
+  "dentist": {
+    "description": [
+      "Let's talk about your doctor or dentist . What is he or she like? Tell me about his/her office in terms of where it is located and what it looks like."
+    ],
+    "routine": [
+      "Walk me through what usually happens when you visit a dentist. From the moment you enter the clinic until you leave, what steps do you usually take?"
+    ],
+    "experience": [
+      "When was the last time you went to the dental clinic? What did you do there? Was the doctor friendly? Tell me everything about your last visit to the dental clinic.",
+      "Tell me about a memorable experience you had while visiting the doctor or dentist. When and where did this appointment take place? Why did you see the doctor or dentist? What made this experience so memorable to you?"
+    ],
+    "comparison": [
+      "How was it when you went to the dentist as a child? How is it different from your experiences now?"
+    ]
+  },
+
+  "haircut": {
+    "description": [
+      "Can you tell me how often you go to a beauty salon or barber shop? Where is it located and what does it look like? How are the people who work there? Is it expensive to get your hair done there?",
+      "Please describe in detail a beauty salon or a barbershop that you frequently visit. What does it look like? How big it is? How do you describe service and the staff there? Why do you like it there?"
+    ],
+    "routine": [
+      "Walk me through what usually happens when you get a haircut. From the moment you arrive until you leave, what steps are involved?"
+    ],
+    "experience": [
+      "Tell me about the last time you got a haircut. Where did you go? What did you ask for, and how did you feel about the result?",
+      "Have you ever had a memorable or unusual experience at a salon or barber shop? What happened, and why was it unforgettable?"
+    ],
+    "comparison": [
+      "How was getting a haircut when you were younger compared to now? What are the differences?"
+    ]
+  },
+
+  "hotel": {
+    "description": [
+      "I'd like to know about hotels in your country. What are they like? Where are they located? Are they different from the hotels in other countries? Tell me about the hotels in your country in as much detail as possible"
+    ],
+    "routine": [
+      "When you go to a hotel, what facility do you use and what do you do there? And why do you like doing that at a hotel?",
+      "Walk me through the steps you usually take from check-in to check-out at a hotel. What do you do first, second, and so on?"
+    ],
+    "experience": [
+      "Tell me about the last time you stayed at a hotel. Where was it, and why did you go there? What was the experience like?",
+      "Have you ever had a memorable or unusual experience at a hotel? What happened, and why was it unforgettable?"
+    ],
+    "comparison": [
+      "Compare the hotels you stayed in the past with the ones you stay in these days. How are they different in terms of facilities, services, and atmosphere?"
+    ]
+  },
+
+  "transportation": {
+    "description": [
+      "Tell me about the public transportation in your country. What kind of transportation do you usually use? Why do you like public transportation?",
+      "What do people usually do when they use public transportation? When they usually use it? Why do they use it ?",
+      "Let's talk about the forms of transportation in your area. What kind of transportation are available? Please give me every detail. "
+    ],
+    "routine": [
+      "What do you do when you use the public transportation? Tell me every detail when you use them from start to the end.",
+      "What kind of transportation do you use when you go to school/work? Tell me about the typical morning routine and commute with all details."
+    ],
+    "experience": [
+      "When was the last time you used a different form of transportation? Was it your first time using that transportation?  Where were you going and what were you planning to do? Tell me about the memorable experience in as much detail as possible.",
+      "Problems can occur once you use the public transportation. Sometimes riding the bus of subway can be uncomfortable. Have you ever had a problems when taking public transportation? What kind of problem was it? How did you solve the problem?"
+    ],
+    "comparison": [
+      "Transportation systems have changed a lot over the years. Are there any changes to transportation in your country since you were young? What are the differences between the past and present?"
+    ]
+  }
+
+}

@@ -1,0 +1,410 @@
+{
+  "furniture": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. you are at a furniture store to buy a piece of furniture. Ask the clerk three or four questions about the furniture you would like to buy."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. You have received the furniture you bought at home. But there is something wrong with the furniture. Call the furniture store, explain the situation, and ask for a way to get an exchange or your money back."
+    ],
+    "13": [
+      "That's the end of the situation. Have you ever bought furniture that turned out great or disappointing? Describe what you chose, why you chose it, and how it worked out."
+    ]
+  },
+
+  "house": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You would like to get a house. Call a real estate agent and explain what kind of houses you would like to get. Ask three or four questions about the home and sevices they offer."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. You have got into your house you will live in. But there is something wrong with the house. Call the real estate agent, explain the situation and ask for a way to get an exchange or your money back."
+    ],
+    "13": [
+      "Compare your current home with a place you lived before. What are the biggest differences in location, size, or cost, and how have they changed your daily routine?"
+    ]
+  },
+
+  "MP3 player": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You would like to buy an MP3 player. Call your friend and ask about the MP3 player he or she is using. Ask three or four questions that will help you decide whether you want to buy the product friend is using."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. You have borrowed your friend's MP3 player but broke it by accident. Call your friend and expalin the situation. Give two or three alternatives that will help solve the situation."
+    ],
+    "13": [
+      "Explain how your music listening changed over time—from MP3 players to streaming. What was the turning point and why?"
+    ]
+  },
+
+  "concert": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You want to buy two tickets to go watch a concert tonight. Call the theater and ask two to three questions about ways to get tickets."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. You have bought the concert tickets for today, but at the last minute you are so sick that you can't even get out of bed. Call your friend and explain your situation."
+    ],
+    "13": [
+      "Describe the best live performance you’ve seen. Where was it, who was on stage, and what moment stood out?"
+    ]
+  },
+
+  "travel": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You are planning to going on a trip. Call a travel agency and ask three or four questions about the trip you want to go on."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. The travel agency has called you and said that there is a problem with the trip you have booked. Call a friend you were plannning on going with and explain the situation. Give two to three alternatives."
+    ],
+    "13": [
+      "Tell me about a trip that didn’t go as planned. What went wrong, how did you adapt, and what advice would you give?"
+    ]
+  },
+
+  "recycling": {
+    "11": [
+      "Suppose that you have moved into a new building. Call the manager of the building and ask three or four questions about recycling."
+    ],
+    "12": [
+      "A new resident from abroad has just moved in. However he is throwing away garbage in the recycling bin. Other residents are very upset about that. Go to the new resident and explain the situation and tell him about the recycling policy."
+    ],
+    "13": [
+      "That's the end of the situation. Tell me how people recycled when you were a child. Was there a place for recycling? How was recycling in the past different from how we recycle now?"
+    ]
+  },
+
+  "watch the house": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. One of your relatives is going on a trip. Their house is going to be empty, and you have to watch the house while they are gone. Call your relative and ask three or four questions about what you have to do."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. You are at your relative's house but can't find the key to the door. You can't get into the house. Call your relative and ask two to three questions to solve the problem."
+    ],
+    "13": [
+      "Talk about caring for someone’s home, pet, or plants. How did you prepare, and what would you do differently now?"
+    ]
+  },
+
+  "hotel": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You are visiting a new city and staying at a hotel. You have a free day and want to explore the city. Ask the front desk clerk three or four questions about activities or places to visit."
+    ],
+    "12": [
+      "I'm sorry, but there’s a problem I need you to resolve. You left your bag in the taxi that took you to the hotel. Call the taxi company, explain the situation, describe your bag, and arrange to get it back."
+    ],
+    "13": [
+      "That's the end of the situation. Has anything similar ever happened to you? Have you ever lost an item somewhere, or misplaced something important? Talk about the situation in detail."
+    ]
+  },
+
+  "invite": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. Your friend invited you to a holiday party at their home. Call them and ask when the party is and what time it starts, and if you should bring anything. Ask two or three more questions about the party."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem that I need you to resolve. You just had a car accident and are going to be late for the holiday party. Call your friend, let them know what happened, and discuss two or three ideas about what you should do."
+    ],
+    "13": [
+      "That's the end of the situation. Have you ever been in a situation where you made plans for a trip or a party but had to cancel at the last minute because of an emergency? Talk about the situation and how you dealt with it."
+    ]
+  },
+
+  "movie": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You are planning to watch a movie with your friend. Call the theater and ask three or four questions about the movie and getting tickets for it."
+    ],
+    "12": [
+      "I’m sorry, but there is problem you need to resolve. You found out that you purchased the wrong tickets at the theater. Talk to the person at the box office about your situation and offer two or three suggestions to solve the problem."
+    ],
+    "13": [
+      "Share a movie-theater experience you won’t forget—because of the film, the crowd, or a venue issue. What happened and how did you feel?"
+    ]
+  },
+
+  "phone": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You would like to buy a new mobile phone. Call a store and tell them what you need, then ask three or four questions to find out about the phones they offer."
+    ],
+    "12": [
+      "I'm sorry, but there's a problem that I need you to resolve. When you bought the new phone, you realized that it did not have all the features you need. You would like to return it to get a new phone. Call the store, explain the situation, and make arrangements to exchange it for one that has the features you need."
+    ],
+    "13": [
+      "That's the end of the situation. Have you ever bought a piece of technology which was not what you wanted or different from what you had expected? Was the feature not what you wanted or did it just not work properly? Tell me exactly what was wrong and what you did to solve the situation."
+    ]
+  },
+
+  "getting a house": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You would like to find a house to live in. Call a management office or a real estate agency and ask three or four questions about getting a house to live in."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. One of the windows in your apartment is broken. Call the management office, explain your situation and give two or three alternatives to fix the problem."
+    ],
+    "13": [
+      "List your top three must-haves for a home and explain how those priorities have changed over time."
+    ]
+  },
+
+  "cafe": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You would like to get coffee from a new coffee shop that has opened nearby. Call the coffee shop and ask three to four questions about their menu and how to order your coffee."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. You have had your coffee delivered to your house. But when you got your coffee, you find out that you’ve got the wrong order. Call the manager of the coffee shop, explain your situation and give two or three alternatives to solve the problem."
+    ],
+    "13": [
+      "Describe your ideal café: ambience, go-to order, seating, music. Why does it help you relax or focus?"
+    ]
+  },
+
+  "website": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. Your friend has a website that he or she likes to use. Call your friend and ask three or four questions to find out whether you want to use that website."
+    ],
+    "12": [
+      "I’m sorry, but there is problem you need to resolve. You are on a social networking site that your friend recommended and cannot click anything on the website. Call your friend, explain your situation and ask for a help."
+    ],
+    "13": [
+      "Compare two websites or apps you use for the same task. Which do you prefer and for what reasons (speed, UX, features)?"
+    ]
+  },
+
+  "SNS": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. Your friend wants to use a social networking site and needs some help. Call your friend and ask three or four questions to help that friend out."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. Your social media account has been compromised and is posting messages you didn't write. Call the platform's customer support, explain the situation, and ask how to verify your identity, recover your account, delete the unauthorized posts, and prevent this from happening again. Offer two or three alternatives if immediate recovery isn't possible."
+    ],
+    "13": [
+      "How do you balance staying connected on social media with protecting your privacy and time? Give concrete routines or tools."
+    ]
+  },
+
+  "clothes": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You are at a clothing store to buy something for your trip. Ask a clerk three or four questions about the clothes you would like to buy."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. You bought some clothes at a store. But there is something wrong with what you bought. Call the clothing store, explain the situation and ask for a way to get an exchange or your money back."
+    ],
+    "13": [
+      "Tell the story of an outfit you bought for a special occasion. How did you choose it, how did it fit the event, and did you wear it again?"
+    ]
+  },
+
+  "library": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You are at the library to borrow a book. Call the librarian and ask three or four questions about the book you would like to borrow."
+    ],
+    "12": [
+      "I’m sorry, but there is problem you need to resolve. You had to borrow a book for your paper at school, but a classmate has already borrowed the book. Call your professor, explain your situation and ask for two or three suggestions to solve the problem."
+    ],
+    "13": [
+      "Recall a library that shaped your reading or study habits. What was it like, and how did it influence you?"
+    ]
+  },
+
+  "travel agency": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You’re planning to travel overseas. Call the travel agent and ask three or four questions to get information for your trip."
+    ],
+    "12": [
+      "I’m sorry, but there is problem you need to resolve. When you arrived at the airport, you found out that your flight was canceled. However, all of the other flights are fully booked. Explain the situation to your travel agent and suggest two or three options."
+    ],
+    "13": [
+      "That's the end of the situation. Have you ever had trouble making vacation plans? Talk about what happened and how you solved the problem."
+    ]
+  },
+
+  "restaurant": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You need to make a reservation at a restaurant for an event that is coming up. Call the manager at the restaurant and ask three or four questions to make arrangements for the event."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. You made a reservation for an event at a restaurant, but the event got canceled. Call your restaurant, explain your situation and give two or three alternatives."
+    ],
+    "13": [
+      "Describe a meal where service made or broke the experience. What did the staff do, and how did you respond?"
+    ]
+  },
+
+  "see the doctor": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You would like to make an appointment to go see the doctor. Call the clinic and make arrangements to see the doctor. Ask three or four questions about your appointment."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. Something has come up and you have to change your doctor’s appointment. Call the doctor’s office, explain your situation and give two or three alternatives to deal with the situation."
+    ],
+    "13": [
+      "Describe a time you prepared for a medical visit (notes, symptoms, results). How did that preparation change the outcome?"
+    ]
+  },
+
+  "park": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. Your friend wants to go to the park this weekend. Call your friend and ask him three or four questions about going to the park."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. You found out that the park you wanted to go to will be closed this weekend for renovations. Call your friend, explain your situation and give two or three alternatives about what to do."
+    ],
+    "13": [
+      "That’s the end of the situation. Have you ever had a memorable experience at a park? What happened? Was it a good or bad experience? Why was it so memorable?"
+    ]
+  },
+
+  "beach": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You and your friends are planning to go on a trip to the beach this weekend. Call your friend and ask three to four questions regarding t he trip you are planning."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. You have just found out that the weather at the beach you were planning to go to is not going to be good this coming weekend. Call your friend, tell him or her about the weather and give two to three alternatives."
+    ],
+    "13": [
+      "Contrast a great beach trip with a disappointing one. Which factors—weather, crowd, facilities—made the difference?"
+    ]
+  },
+
+  "visit a friend ": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You would like to visit a friend who lives overseas. Call your friend and ask three or four questions about the things you have to know about your visit."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. Something has come up and you can’t make it to your friend’s house. Call your friend, explain your situation and give two or three alternatives to solve the problem."
+    ],
+    "13": [
+      "Talk about visiting a far-away friend. How did you plan the travel, and what made the visit meaningful?"
+    ]
+  },
+
+  "friend’s birthday party": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You have been invited to a friend’s birthday party. The party will be held at a bar. Call your friend and ask three or four questions about the place where the party is being held."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. You have a test coming up tomorrow and cannot make it to your friend’s birthday party. Call your friend, explain your situation and give two or three alternatives about what to do."
+    ],
+     "13": [
+      "Describe a memorable birthday party—venue, people, surprises. What detail made it stand out?"
+    ]
+  },
+
+  "interview": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You have a job interview at a major company, and you want to learn more about the company before the interview. Call the company and ask three or four questions about it."
+    ],
+    "12": [
+      "I'm sorry, but there is a problem I need you to resolve. Something has come up, and you cannot go to the interview. Call the company, explain the situation, and offer two or three suggestions, so you won't lose the opportunity."
+    ],
+    "13": [
+      "That's the end of the situation. Have you ever been in a situation where you had to cancel an important appointment or plan? What happened? When was it, and how did you resolve it?"
+    ]
+  },
+
+  "bar": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You are thinking about going to a new bar that has opened. Call the bar and ask three to four questions to see if you want to go to that bar."
+    ],
+    "12": [
+      "I’m sorry, but there is problem you need to resolve. You are at the bar and want to pay for your drinks. But you suddenly find out that you lost your wallet. Explain the situation to the bartender or waiter and make suggestions to solve the problem."
+    ],
+    "13": [
+      "Recall your first visit to a particular bar or pub. Why did you choose it, and what would bring you back (or not)?"
+    ]
+  },
+
+  "gym": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. You are thinking about signing up at a gym nearby. Call the gym and ask three or four questions about the gym."
+    ],
+    "12": [
+      "I’m sorry, but there is a problem I need you to resolve. You have signed up at the gym but you are not satisfied with it. Maybe the gym in not clean enough or there are too many people. Call the manager of the gym and make arrangements to get a refund."
+    ],
+    "13": [
+      "Describe a fitness routine that actually stuck. What helped you build the habit, and what obstacles did you overcome?"
+    ]
+  },
+
+  "together with friend": {
+    "11": [
+      "I’ll give you a situation and ask you to act it out. You want to get together with your friend on the weekend. Call your friend and ask when they can meet and what they want to do."
+    ],
+    "12": [
+      "There is a problem that I need you to resolve. You cannot meet your friend at the place you planned on meeting. Call your friend, explain the situation, and give some suggetstions."
+    ],
+    "13": [
+      "Have you had an experience when you had to change your plans for your free time? What happened and why did you have to change those plans?"
+    ]
+  },
+
+  "car rent": {
+    "11": [
+      "You are at a rental car company in New York because you need to rent a car. You are speaking with an agent at the rental car company. Ask three or four questions about renting a car for a week."
+    ],
+    "12": [
+      "You want to rent a car at the rental car company, but the agent is saying that your driver’s license is not from the U.S. so he can’t rent you a car. Discuss the situation and suggest some possible solutions."
+    ],
+    "13": [
+      "Have you ever had any trouble while you were traveling? What was it and how did you solve the problem?"
+    ]
+  },
+
+  "take care plants": {
+    "11": [
+      "I’d like to give you a situation and ask you to act it out. Imagine that a neighbor or family member asks you to take care of his/her plants while he/she is away. Ask three or four questions to find out what you need to do."
+    ],
+    "12": [
+      "I’m sorry. There’s a problem which you need to resolve. While your neighbor or family is gone, you notice that there’s a serious problem with one of his/her special plants. Call your friend or your family member, explain in detail what happened to the plant, and make two or three suggestions for replacing it."
+    ],
+    "13": [
+      "Describe your experience growing or caring for a plant. What worked, what didn’t, and what tip would you give a beginner?"
+    ]
+  },
+
+  "airport": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You are at the airport and just found out that your flight is delayed by two hours. At the airline counter, ask three or four questions about the delay."
+    ],
+    "12": [
+      "I'm sorry, but there's a problem I need you to resolve. Your flight was delayed, so you can't attend an important meeting today. Call your client and leave a message about the situation. Suggest two or three alternative options."
+    ],
+    "13": [
+      "That's the end of the situation. You may have had problems while you were on a trip. Talk about a problem you had while traveling. What was the problem, and how did you deal with the situation?"
+    ]
+  },
+
+  "expert": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You are writing a report on the technology industry. Your friend is an expert in this field. Call your friend and ask three or four questions to learn more about the technology industry."
+    ],
+    "12": [
+      "I'm sorry, but there's a problem I need you to resolve. You have an appointment to meet your friend to learn more about the industry they work in. However, a few days before the meeting, a family member has an emergency. Call your friend, explain the situation, and suggest two or three alternatives to get the information."
+    ],
+    "13": [
+      "That’s the end of the situation. Talk about an exciting new product you have heard of. For example, it could be a phone, car, video game, or some other product. How did you learn about it? Tell me about the product in detail."
+    ]
+  },
+
+  "haircut": {
+    "11": [
+      "You have an important meeting in two days, so you want to get a haircut. Call the hair salon and ask three or four questions to make an appointment no later than tomorrow afternoon."
+    ],
+    "12": [
+      "You just got your hair cut, but you are not happy with it. You think the haircut was done badly. Call the hair salon, explain the situation, and ask if there is a solution."
+    ],
+    "13": [
+      "Do you have a memorable experience at a hair salon? What happened? What made it so memorable?"
+    ]
+  },
+
+  "car trouble": {
+    "11": [
+      "I'd like to give you a situation and ask you to act it out. You are driving through a small town and have car trouble. Go to a service station for help. Ask three or four questions to get the information you need to get your car fixed."
+    ],
+    "12": [
+      "I’m sorry, but there’s a problem I need you to resolve. You will miss an important business meeting because of your car trouble. Call your client. Explain the situation and offer some possible solutions."
+    ],
+    "13": [
+      "That’s the end of the situation. Tell me about a time when you had trouble with your car. What was the problem, and how did you solve it?"
+    ]
+  }
+  
+}

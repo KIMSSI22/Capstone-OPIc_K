@@ -1,4 +1,0 @@
-/* 로그인과 동일 스타일을 재사용합니다. */
-@import "./Login.css";
-
-.auth-page.signup{ background:var(--bg); }

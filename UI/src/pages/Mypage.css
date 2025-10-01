@@ -1,0 +1,103 @@
+:root{
+  --brand:#f69a07;          /* 배너 색감 */
+  --brand-btn:#ff8a2a;      /* 버튼 */
+  --ink:#202020;
+  --muted:#6f6f6f;
+  --bg:#ffffff;
+  --card:#fff;
+  --shadow:0 12px 26px rgba(0,0,0,.06);
+  --radius:18px;
+}
+
+.mypage-simple{
+  background:var(--bg);
+  min-height:100vh;
+  padding-bottom:64px;
+}
+
+/* Hero (큰 오렌지 배너) */
+.mypage-hero-simple{
+  width:100%;
+  background:var(--brand);
+  color:#fff;
+  padding:64px 24px 72px;
+  border-bottom-left-radius:24px;
+  border-bottom-right-radius:24px;
+  box-shadow:var(--shadow);
+  text-align:center;
+}
+.mypage-hero-simple h1{
+  margin:0;
+  font-size:48px;
+  font-weight:900;
+  letter-spacing:.4px;
+}
+.mypage-hero-simple .streak{
+  margin-top:12px;
+  font-size:18px;
+  opacity:.95;
+}
+
+/* 3장 카드 그리드 */
+.mypage-grid{
+  max-width:1080px;
+  margin:-36px auto 0; /* 배너와 자연스러운 겹침 */
+  padding:0 20px;
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:22px;
+}
+
+.mypage-card{
+  background:var(--card);
+  border-radius:18px;
+  box-shadow:var(--shadow);
+  padding:22px 20px;
+  border:1px solid #f2e7da;
+}
+
+.card-title{
+  margin:0 0 8px;
+  font-size:22px;
+  font-weight:900;
+  color:#222;
+}
+.card-desc{
+  margin:0 0 18px;
+  font-size:16px;
+  color:#2f2f2f;
+  min-height:44px; /* 두 줄까지 안정 */
+}
+
+/* 버튼 */
+.card-btn{
+  height:44px;
+  padding:0 16px;
+  border-radius:12px;
+  border:none;
+  font-weight:900;
+  cursor:pointer;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-width:120px;
+}
+.card-btn.primary{
+  background:var(--brand-btn);
+  color:#fff;
+  box-shadow:var(--shadow);
+}
+.card-btn.disabled{
+  background:#ebebeb;
+  color:#9a9a9a;
+  cursor:not-allowed;
+}
+
+/* 반응형 */
+@media (max-width:940px){
+  .mypage-grid{ grid-template-columns: 1fr 1fr; }
+}
+@media (max-width:620px){
+  .mypage-hero-simple h1{ font-size:36px; }
+  .mypage-grid{ grid-template-columns: 1fr; gap:16px; }
+}

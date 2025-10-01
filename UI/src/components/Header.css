@@ -1,0 +1,109 @@
+:root{
+  --brand:#ff8a2a;
+  --brand-strong:#e66a00;
+  --ink:#1f1f1f;
+  --line:#efefef;
+  --bg:#ffffff;
+  --danger:#ffefe9;
+}
+
+/* === Header wrapper === */
+.header{
+  position:sticky; top:0; z-index:50;
+  background:#fff;
+  border-bottom:1px solid var(--line);
+}
+.header *{ -webkit-tap-highlight-color: transparent; }
+
+/* Container */
+.header-container{
+  max-width:1200px;
+  margin:0 auto;
+  height:64px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 16px;
+  gap:16px;
+}
+
+/* ── 로고 ── */
+.logo{
+  font-family:'Pretendard Variable','Pretendard',-apple-system,BlinkMacSystemFont,
+    'Segoe UI',Roboto,'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',Arial,sans-serif;
+  font-size:36px; font-weight:900; font-variation-settings:"wght" 900;
+  letter-spacing:0.2px; line-height:1; color:#ff8a1f;
+  text-decoration:none; background:transparent; box-shadow:none; border:none;
+  -webkit-text-stroke:0; filter:none; transform:none; transition:none; cursor:pointer;
+}
+.logo:hover,.logo:focus,.logo:focus-visible,.logo:active{
+  outline:none !important; box-shadow:none !important; background:transparent !important;
+  text-decoration:none !important;
+}
+
+/* ===== Nav ===== */
+.nav-menu ul{ display:flex; align-items:center; gap:24px; list-style:none; margin:0; padding:0; }
+.nav-menu a{
+  display:inline-block; padding:8px 10px;
+  color:#3a3a3a; text-decoration:none; font-weight:800; border-radius:8px;
+  transition:color .15s ease; outline:none; box-shadow:none; background:transparent;
+}
+.nav-menu a:hover{ color:var(--brand-strong); }
+.nav-menu a.active{ color:var(--brand-strong); }
+
+/* ===== Auth Area & Buttons ===== */
+.auth-area{ display:flex; align-items:center; gap:10px; }
+
+/* 공통 버튼 베이스 */
+.btn{
+  height:40px; padding:0 14px;
+  border-radius:12px; font-weight:900; cursor:pointer;
+  border:1px solid transparent;
+  transition:background .15s ease, color .15s ease, border-color .15s ease;
+  outline:none; box-shadow:none; user-select:none;
+}
+
+/* 회원가입: 연한 회색 배경 + 검정 글자 */
+.btn.signup{
+  background:#f0f0f0; color:#1f1f1f; border-color:#e0e0e0;
+}
+.btn.signup:hover{ background:#e0e0e0; border-color:#cfcfcf; color:#161616; }
+
+/* 로그인: 주황색 배경 + 흰 글자 */
+.btn.login{
+  background:var(--brand); color:#fff; border-color:var(--brand);
+}
+.btn.login:hover{
+  background:var(--brand-strong); border-color:var(--brand-strong); color:#fff;
+}
+
+/* 외곽선 버튼(로그아웃 등) */
+.btn.outline{
+  background:#fff; color:#333; border:1px solid #e6e6e6;
+}
+.btn.outline:hover{
+  color:var(--brand-strong); border-color:var(--brand-strong); background:#fff;
+}
+.btn.outline.danger{
+  color:#d64545; border-color:#f0b5b5; background:#fff;
+}
+.btn.outline.danger:hover{
+  color:#c03939; border-color:#e28e8e;
+}
+
+/* 프로필 칩 */
+.profile-cluster{ display:flex; align-items:center; gap:10px; }
+.chip{
+  border:none; background:#f5f5f5; color:#333;
+  padding:8px 12px; border-radius:999px; font-weight:800; cursor:pointer;
+  outline:none; box-shadow:none;
+}
+.chip:hover{ background:#eee; }
+
+/* Responsive */
+@media (max-width:760px){
+  .header-container{ height:60px; }
+  .logo{ font-size:30px; transform:scaleY(1.04); }
+  .nav-menu ul{ gap:14px; }
+  .btn{ height:38px; padding:0 12px; }
+}

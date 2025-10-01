@@ -1,0 +1,123 @@
+/* ===== 기본 ===== */
+.opic-main{
+  --brand:#ff8a2a; --brand-strong:#e66a00;
+  --ink:#1f1f1f; --line:#efefef; --muted:#6b6b6b;
+  --header-h:80px;
+  color:var(--ink);
+  background:
+    radial-gradient(80rem 40rem at 80% -10%, rgba(255,138,42,.14), transparent 60%),
+    linear-gradient(180deg, #fff7f0 0%, #fff 45%, #fff 100%);
+  overflow-x:hidden;
+}
+
+/* ======== 전체 배경 래퍼: 상단~footer 직전까지 항상 가로/세로 꽉 ======== */
+.opic-bg-fill{
+  position:relative;
+
+  /* 가로 풀블리드: 부모 max-width 제약을 깨고 화면 가로에 맞춤 */
+  width:100vw;
+  margin-left:calc(50% - 50vw);
+  margin-right:calc(50% - 50vw);
+
+  /* 이 래퍼의 높이는 내부 콘텐츠에 따라 자동 증가 → footer 직전까지 커버 */
+  overflow:visible;
+}
+.opic-bg-fill::before{
+  content:"";
+  position:absolute;
+
+  /* ★ 틈 방지: 스크롤바/서브픽셀로 생기는 흰줄 제거 */
+  top:-3px; left:-3px; right:-3px; bottom:-3px;
+
+  /* 가로가 잘려도 상관없다고 하셨으니 cover + 오버스캔 */
+  background:url("/opic-illustration1.png") center / cover no-repeat;
+  opacity:.26;
+  transform:scale(1.02);
+  will-change:transform;
+  pointer-events:none;
+  z-index:0;
+}
+/* 실제 콘텐츠는 배경 위로 */
+.opic-bg-fill > *{ position:relative; z-index:1; }
+
+/* ===== 버튼 ===== */
+.btn{height:44px;padding:0 18px;border-radius:12px;font-weight:900;border:1px solid transparent;cursor:pointer;transition:.15s;}
+.btn.ghost{background:#fff;color:var(--brand-strong);border-color:color-mix(in oklab, var(--brand) 35%, #eee);box-shadow:0 6px 18px rgba(255,138,42,.12),0 2px 6px rgba(0,0,0,.04);}
+.btn.ghost:hover{transform:translateY(-2px);background:#fff7f0;color:var(--brand);}
+.btn.outline{background:#fff;color:#333;border:1px solid #e6e6e6;}
+.btn.outline:hover{color:var(--brand-strong);border-color:var(--brand-strong);}
+
+/* ===== HERO ===== */
+/* ===== HERO: 상단·왼쪽 정렬 ===== */
+.hero{
+  /* 뷰포트 세로 차지(헤더 제외)는 유지 */
+  min-height: calc(100svh - var(--header-h));
+  /* 가운데 컨테이너 폭은 유지하되, 왼쪽 여백만 계산 */
+  padding-inline: max(24px, calc(50vw - 400px));
+  /* 상단에 붙게 조금만 여백 */
+  padding-top: clamp(40px, 20vh, 120px);
+  padding-bottom: clamp(16px, 4vh, 48px);
+
+  display: grid;
+  /* ★ 핵심: 왼쪽 정렬 + 상단 정렬 */
+  justify-items: start;
+  align-items: start;
+}
+
+@supports (min-height: 100lvh){
+  .hero{
+    min-height: clamp(480px, calc(78lvh - var(--header-h)), 760px);
+  }
+}
+@supports (min-height: 100dvh){
+  .hero{
+    min-height: clamp(480px, calc(78dvh - var(--header-h)), 760px);
+  }
+}
+
+
+.hero-left{
+  width: 100%;
+  max-width: 760px;
+  text-align: left;        /* ★ 왼쪽 정렬 */
+}
+.hero-left h1{font-size:clamp(36px,5.6vw,64px);line-height:1.12;margin:0 0 12px;font-weight:900;color:#111;word-break:keep-all;}
+.hero-left h1 span{color:var(--brand);text-shadow:0 10px 28px rgba(230,106,0,.15);}
+.hero-sub{margin:0 0 22px;color:var(--muted);font-size:clamp(15px,2.1vw,18px);word-break:keep-all;}
+.hero-ctas{display:flex;gap:10px;justify-content:flex-start;}
+.trust-bullets{list-style:none;margin:14px auto 0;padding:0;display:flex;gap:12px;flex-wrap:wrap;justify-content:flex-start;color:#444;}
+.trust-bullets li{background:#fff;border:1px solid #f0e4d9;border-radius:999px;padding:6px 12px;font-weight:700;box-shadow:0 6px 18px rgba(255,138,42,.08);}
+
+/* ===== FEATURES / HOW / CTA / FOOTER ===== */
+.features{max-width:1200px;margin:clamp(40px,6vw,72px) auto;padding:0 16px;display:grid;gap:18px;grid-template-columns:repeat(3,minmax(0,1fr));}
+@media (max-width:980px){.features{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media (max-width:640px){.features{grid-template-columns:1fr;}}
+.feature-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px 20px;box-shadow:0 8px 26px rgba(0,0,0,.045);}
+.feature-card h3{margin:0 0 8px;font-size:18px;font-weight:900;color:#202020;}
+.feature-card p{margin:0;color:#555;line-height:1.6;font-size:15px;}
+
+.how{max-width:1200px;margin:clamp(20px,6vw,60px) auto;padding:0 16px;text-align:center;}
+.how h2{font-size:26px;margin:0 0 16px;}
+.steps{list-style:none;margin:0;padding:0;display:grid;gap:16px;grid-template-columns:repeat(3,minmax(0,1fr));}
+@media (max-width:900px){.steps{grid-template-columns:1fr;text-align:left;}}
+.step{background:#fff;border:1px dashed #f0d7c0;border-radius:16px;padding:18px 16px;}
+.step .badge{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:999px;background:#ffe9d6;color:var(--brand-strong);font-weight:900;margin-bottom:6px;}
+.step h4{margin:4px 0 6px;font-size:17px;}
+.step p{margin:0;color:#666;}
+
+.cta-band{max-width:1200px;margin:clamp(28px,6vw,64px) auto;padding:18px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px;background:linear-gradient(90deg,rgba(255,167,100,.16),rgba(255,138,42,.08));border:1px solid #ffd8bb;border-radius:18px;box-shadow:0 10px 26px rgba(255,138,42,.08);}
+@media (max-width:800px){.cta-band{flex-direction:column;text-align:center;}}
+.cta-text h3{margin:6px 0 4px;font-size:22px;}
+.cta-text p{margin:0 0 10px;color:#666;}
+.cta-actions{display:flex;gap:10px;}
+
+.page-footer{max-width:1200px;margin:30px auto 24px;padding:0 16px;color:#888;font-size:13px;text-align:center;border-top:1px dashed var(--line);padding-top:16px;}
+
+/* 모바일에서 배경 조금 더 진하게/위로 */
+@media (max-width:720px){
+  .opic-bg-fill::before{ opacity:.30; background-position:center top; }
+}
+
+
+
+

@@ -1,0 +1,92 @@
+:root{
+  --brand:#ff8a2a;
+  --card:#fff;
+  --bg:#faf7f2;
+  --ink:#222;
+  --muted:#767676;
+  --shadow:0 18px 34px rgba(0,0,0,.07);
+  --radius:16px;
+}
+
+/* 로그인/회원가입 공통 컨테이너 – 둘 다 가운데 정렬 */
+.auth-page{
+  min-height:calc(100vh - 64px);
+  background:var(--bg);
+  display:grid;
+  place-items:center;
+  padding:24px 16px 56px;
+}
+
+.auth-card{
+  width:100%;
+  max-width:420px;
+  background:var(--card);
+  border:1px solid #f1e5d9;
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+  padding:26px 22px 20px;
+}
+
+.auth-title{
+  margin:0 0 14px;
+  font-size:26px;
+  font-weight:900;
+  color:var(--ink);
+  text-align:center;
+}
+
+.auth-form{
+  display:grid;
+  gap:12px;
+}
+
+.form-row{
+  display:grid;
+  gap:6px;
+}
+
+.form-label{
+  font-weight:800;
+  color:#454545;
+  font-size:14px;
+}
+
+.auth-form input{
+  height:44px;
+  padding:0 12px;
+  border:1px solid #e9e1d8;
+  border-radius:12px;
+  font-size:15px;
+  outline:none;
+}
+
+.auth-form input:focus{
+  border-color:var(--brand);
+  box-shadow:0 0 0 3px rgba(255,138,42,.15);
+}
+
+.btn{
+  height:46px;
+  border:none;
+  border-radius:12px;
+  font-weight:900;
+  cursor:pointer;
+}
+
+.btn.primary{
+  background:var(--brand);
+  color:#fff;
+  box-shadow:var(--shadow);
+}
+
+.auth-helper{
+  margin:14px 2px 0;
+  color:var(--muted);
+  text-align:center;
+  font-size:14px;
+}
+.auth-helper a{
+  font-weight:900;
+  color:#333;
+  text-decoration:underline;
+}

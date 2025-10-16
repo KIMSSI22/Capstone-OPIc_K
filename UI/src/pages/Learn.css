@@ -1,0 +1,91 @@
+:root{
+  --brand:#ff8a2a;
+  --bg:#fffaf6;           /* 페이지 배경 */
+  --card:#ffffff;
+  --ink:#1f1f1f;
+  --muted:#6f6f6f;
+  --line:#f2e7da;
+  --shadow:0 18px 34px rgba(0,0,0,.07);
+  --radius:18px;
+}
+
+.learn-wrap{
+  background:var(--bg);
+  min-height:calc(100vh - 64px);
+  padding:32px 20px 56px;
+}
+
+.learn-wrap h1{
+  max-width:1080px;
+  margin:0 auto 18px;
+  font-size:40px;
+  font-weight:900;
+  color:var(--ink);
+}
+
+/* 카드 그리드 */
+.learn-grid{
+  max-width:1080px;
+  margin:0 auto;
+  display:grid;
+  grid-template-columns: repeat(3, minmax(260px, 1fr));
+  gap:20px;
+}
+
+.learn-card{
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+  padding:22px 20px;
+  cursor:pointer;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+  display:flex; flex-direction:column; align-items:flex-start;
+}
+
+.learn-card:hover{
+  transform: translateY(-3px);
+  box-shadow:0 24px 44px rgba(0,0,0,.09);
+  border-color:#f5dcc7;
+}
+
+.learn-icon{
+  width:54px; height:54px; border-radius:14px;
+  background:rgba(255,138,42,.1);
+  display:grid; place-items:center;
+  font-size:28px;
+  margin-bottom:12px;
+}
+
+.learn-card-title{
+  margin:0 0 6px;
+  font-size:22px; font-weight:900; color:#222;
+}
+
+.learn-card-desc{
+  margin:0 0 16px;
+  color:var(--muted);
+  min-height:44px;
+}
+
+.learn-card-btn{
+  margin-top:auto;
+  height:42px; padding:0 16px;
+  border:none; border-radius:12px;
+  background:var(--brand); color:#fff;
+  font-weight:900; cursor:pointer;
+  box-shadow:var(--shadow);
+}
+
+/* 반응형 */
+@media (max-width:960px){
+  .learn-grid{ grid-template-columns:1fr 1fr; }
+  .learn-wrap h1{ font-size:34px; }
+}
+@media (max-width:640px){
+  .learn-grid{ grid-template-columns:1fr; }
+  .learn-wrap h1{ font-size:28px; }
+}
+
+/* 아이콘 래퍼에 배경/그림자 쓰고 있었다면 무력화 */
+.learn-icon { background: transparent !important; box-shadow: none !important; outline: none !important; color: #1f2937; display: inline-flex; align-items: center; justify-content: center; }

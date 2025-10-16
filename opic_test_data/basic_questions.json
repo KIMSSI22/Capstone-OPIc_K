@@ -1,0 +1,257 @@
+{
+  "movie": {
+    "description": [
+      "You indicated that you like to watch movies. What kind of movies do you like to watch? Tell me about your favorite movie genre in detail.",
+      "Who is your favorite movie star or character from any movies or TV show? Why do you like him or her? Please describe him or her in detail."
+    ],
+    "routine": [
+      "How often do you usually watch movies? Do you watch them at home or in the theater? Walk me through your usual routine of watching a movie.",
+      "What do people in your country usually do when they go to the movie theater? Please describe the typical steps in detail."
+    ],
+    "experience": [
+      "Tell me in detail about the last movie you watched. What was the genre of the movie? Who was in the movie? Did you like the movie?",
+      "What issues regarding movies do you usually discuss with your friends or family these days? Is there some news with actors or actresses recently? How did the news affect people’s impressions? And what are the recent trends in the movie industry? Tell me everything in detail."
+    ],
+    "comparison": [
+      "Could you compare the movies made today to movies you saw while you were growing up? How have movies changed over the years? What are some similarities and differences?",
+      "Please compare the movies today to the movies you watched when you were young. What are the differences and the similarities? Tell me how movies have changed over the years."
+    ]
+  },
+
+  "music": {
+    "description": [
+      "You indicated that you like to listen to music. What is your favourite type of music? Why do you like to listen to this kind of music? Also, tell me about your favourite singer or musician.",
+      "You indicated in the survey that you like to listen to music. What kind of music do you like and when do you usually listen to it? Where do you get your music? Give as many details as you can.",
+      "Please tell me about your favorite singer. What kind of music does he or she sing? Why do you like him or her?",
+      "You indicated in the survey that you like listening to music. What types of music do you like? Who is your favorite singer or composer? Why do you like him or her?",
+      "I’d like to know what gadgets or electronic equipment people are interested in these days? Why do people in your country like those musical gadgets or equipment? What new products excite them, and why? Tell me what these people talk about it."
+    ],
+    "routine": [
+      "What kind of musical devices do you use when you listen to music? When and where do you listen to music using them?"
+    ],
+    "experience": [
+      "When did you first start listening to music? How did you first become interested in music?",
+      "Please talk about a live music event you went to. What was it like? Provide as many details as possible.",
+      "Tell me about a time when you went to listen to some live music, such as a concert or a live café. What was the mood like and how did you like the music you listened to there?",
+      "Tell me about a particular time when you went to listen to some live music. Did you go to concerts or a live café? What did you do there, and what happened? What made this experience memorable?",
+      "How did you first become interested in listening to music? What kind of music did you listen to when you were young? What was your favorite song? And how has your taste in music changed over time?"
+    ],
+    "comparison": [
+      "You indicated in the survey that you like listening to music. How has your taste in music changed throughout the years?",
+      "Now, pick two singers or composers you like. What is special about their music? What are some similarities and differences between the two singers or composers?",
+      "Please pick two different kinds of music or musician you like. Compare those two, and what are their differences and similarities? Give as many details as you can."
+    ]
+  },
+
+  "bar": {
+    "description": [
+      "I’d like to know about the bar you often go to. Where is your favorite bar? What does it look like? Please describe everything about that bar in detail."
+    ],
+    "routine": [
+      "When you go to a bar, what do you usually do from the moment you arrive until you leave? Tell me about your routine in detail.",
+      "What kinds of drinks or food do you usually order at a bar? Why do you like them?"
+    ],
+    "experience": [
+      "Tell me about a memorable incident that happened at a bar. What exactly happened, and why was it so special? How did you deal with it? Please tell me everything about that incident in detail."
+    ],
+    "comparison": [
+      "How have bars changed over the last several years? What do you think about the changes? How were they in the past, and what about now? What are the differences and the similarities? Tell me all the changes in detail."
+    ]
+  },
+
+  "cafe": {
+    "description": [
+      "When was the first time you went to a café? When was it? Who did you go with? What do you remember the most about that café? Provide as many details as possible."
+    ],
+    "routine": [
+      "When you go to a café, what do you usually do there? Do you drink coffee, study, or meet friends? Walk me through your typical visit.",
+      "How often do you go to cafés, and what is the usual atmosphere like when you are there?"
+    ],
+    "experience": [
+      "Please tell me about a memorable experience you have had at a café. When was it? Who were you with? What made this experience so special?"
+    ],
+    "comparison": [
+      "How were cafés in the past compared to today? What has changed in terms of atmosphere, drinks, and people’s habits?",
+      "Compare your experience at cafés in your own country with cafés in another country you know or have visited."
+    ]
+  },
+
+  "park": {
+    "description": [
+      "You indicated in the survey that you enjoy going to a park. Which park do you like to go to? Where is it? What does it look like? How do you usually go with? Please describe your favorite park in detail."
+    ],
+    "routine": [
+      "How often do you go to a park? What things do you usually do at a park? Describe your typical day at a park from the moment you arrive at the park to the time you leave the park."
+    ],
+    "experience": [
+      "Tell me one memorable or unforgettable experience you had at a park. Who were you with, and what did you do there? Was there a special event, or did something unexpected happen? Please explain what happened in detail."
+    ],
+    "comparison": [
+      "How were parks when you were a child compared to now? What differences do you notice?",
+      "Compare parks in your country with those in another country. What are the similarities and differences?"
+    ]
+  },
+
+  "shopping": {
+    "description": [
+      "Shopping is a popular activity. Tell me where you usually go shopping. When do you go there? Who do you go with? What do you typically buy? Describe as many details as possible."
+    ],
+    "routine": [
+      "Let’s talk about your shopping habits. When and where do you usually go shopping? How often do you go shopping? What things do you most often buy? Who do you typically go with? Tell me in detail."
+    ],
+    "experience": [
+      "Sometimes problems can occur when you are shopping. What was the problem while you were shopping? What happened? And how did you deal with the issue? Tell me everything in detail."
+    ],
+    "comparison": [
+      "How has shopping changed over the years in your country? Compare past shopping habits with today’s.",
+      "Compare online shopping with offline shopping. What are the differences and similarities?"
+    ]
+  },
+
+  "house": {
+    "description": [
+      "Let’s talk about where you live. What does your neighborhood look like? Where is it located? What kinds of amenities are there in your neighborhood? Tell me about a place around your house."
+    ],
+    "routine": [
+      "What do you usually do at home on a typical day? Walk me through your routine from morning to night.",
+      "Tell me what people in your neighborhood usually do in their daily lives. How is it similar or different from your routine?"
+    ],
+    "experience": [
+      "Now, talk about an interesting or memorable experience in your neighborhood. When and where did it occur? Why was it interesting or memorable?"
+    ],
+    "comparison": [
+      "How has the place where you live changed or developed over the past ten years? What was the city like, and what about now? Please tell me in as much detail as possible."
+    ]
+  },
+
+  "vacation at home": {
+    "description": [
+      "You indicated in the survey that you prefer to stay home during vacations. How do you spend your vacations at home? What do you usually do, and why do you like to stay at home? Who usually stays home with you during your vacation? Use as many details as possible to describe it."
+    ],
+    "routine": [
+      "When you stay home during vacation, what do you usually do from morning until night? Walk me through your daily routine.",
+      "How do you usually prepare for a vacation at home? What do you buy or plan before staying home?"
+    ],
+    "experience": [
+      "Tell me about a memorable vacation when you stay at home during your vacation. What did you do at home? Who were you with? Why was it so unforgettable? Give me many details.",
+      "Tell me about the last time you stayed at home for your vacation. What did you do at home? Who were you with? Explain the vacation from the first to the last day."
+    ],
+    "comparison": [
+      "How is staying home during vacation different from traveling? Compare the advantages and disadvantages.",
+      "Compare the way you spent your vacations at home when you were younger with how you spend them now."
+    ]
+  },
+
+  "overseas trip": {
+    "description": [
+      "Where do people in your country like to visit when they travel abroad? Why do they like visiting those locations? What are the special reasons they like to go to those areas? Tell me about it in detail."
+    ],
+    "routine": [
+      "What do you typically prepare before you travel internationally? What do you do before the trip? What things do you usually bring in your luggage? Please tell me what you do before going on a trip in detail."
+    ],
+    "experience": [
+      "Tell me about a memorable or unforgettable experience you had when you took a trip abroad. Maybe something happened that was funny, unexpected, challenging, or embarrassing. What happened, and how did you deal with it? What made this experience so memorable? Use as many details as possible to explain the whole story."
+    ],
+    "comparison": [
+      "How is traveling abroad different from traveling within your country? Compare the similarities and differences.",
+      "Compare your first overseas trip with your most recent one. How were they different?"
+    ]
+  },
+
+  "domestic trip": {
+    "description": [
+      "I’d like to know about places people like to travel to for their vacations. Please tell me where people in your country go for vacations these days."
+    ],
+    "routine": [
+      "When you go on a domestic trip, what do you usually do from the beginning to the end? Please describe the steps in detail.",
+      "How do you usually prepare for a domestic trip? What do you pack and who do you go with?"
+    ],
+    "experience": [
+      "Traveling can lead to some interesting or unexpected experiences. Maybe it’s funny, interesting, or exciting. Describe a memorable trip you have taken. Where did you go, and what did you see? Tell me what happened in detail."
+    ],
+    "comparison": [
+      "How has the domestic travel of people in your country changed over the years? Compare the difference in the ways of traveling in the past and now. What kinds of activities do people usually do while traveling today, and what things did people do in the past when they were on a trip?"
+    ]
+  },
+
+  "jogging": {
+    "description": [
+      "You indicated that you like jogging. How often do you usually go jogging? Where do you like to go? Please describe your routine when you jogging."
+    ],
+    "routine": [
+      "Safety is important. What items do you use when you jogging? What safety precautions do you take to avoid injury? Please describe it in detail."
+    ],
+    "experience": [
+      "What do you like about jogging? Why did you go jogging at first? How has your interest in jogging changed over the years?",
+      "Please describe one memorable experience you have had while jogging. Explain what happened and how did you solve it? Why it was so memorable. Give as many details as you can."
+    ],
+    "comparison": [
+      "How was jogging when you were younger compared to now? What has changed in your habits or routines?",
+      "Compare jogging with another type of exercise you know. What are the similarities and differences?"
+    ]
+  },
+
+  "walking": {
+    "description": [
+      "You indicated that you like walking. How often do you usually go walking? Where do you like to go? Please describe your routine when you walking."
+    ],
+    "routine": [
+      "Safety is important. What items do you use when you walking? What safety precautions do you take to avoid injury? Please describe it in detail."
+    ],
+    "experience": [
+      "What do you like about walking? Why did you walk at first? How has your interest in walking changed over the years?",
+      "Please describe one memorable experience you have had while walking. Explain what happened and how did you solve it? Why it was so memorable. Give as many details as you can."
+    ],
+    "comparison": [
+      "How was walking in the past compared to now? What changes do you notice in your routine or environment?",
+      "Compare walking with another exercise like jogging or cycling. What are the similarities and differences?"
+    ]
+  },
+
+  "no exercise": {
+    "description": [
+      "Let’s talk about exercise. You indicated that you don’t usually exercise. Why is that? Please explain in detail."
+    ],
+    "routine": [
+      "Since you don’t exercise, what do you usually do in your free time instead? Walk me through your typical activities."
+    ],
+    "experience": [
+      "Have you ever tried exercising before but stopped? Tell me about that experience and why you decided not to continue."
+    ],
+    "comparison": [
+      "Compare your lifestyle with that of someone who exercises regularly. What are the differences and similarities?"
+    ]
+  },
+
+  "performance": {
+    "description": [
+      "Tell me about performances in your country. What kinds of performances do people usually enjoy, such as plays, musicals, or traditional shows?"
+    ],
+    "routine": [
+      "When you go to watch a performance, what do you usually do from the moment you arrive until you leave? Walk me through it step by step."
+    ],
+    "experience": [
+      "Tell me about a memorable performance you watched. What kind of performance was it, who performed, and why was it unforgettable?"
+    ],
+    "comparison": [
+      "Compare performances you watched in the past with the ones you watch these days. What are the similarities and differences?"
+    ]
+  },
+
+  "concert": {
+    "description": [
+      "Tell me about concerts in your country. What kinds of concerts are popular, and why do people like them?"
+    ],
+    "routine": [
+      "When you go to a concert, what do you usually do? Walk me through the steps from entering the venue to leaving."
+    ],
+    "experience": [
+      "Tell me about the most memorable concert you have ever been to. Who performed, where was it, and why was it unforgettable?",
+      "Have you ever had any problems at a concert, such as bad weather or traffic issues? Tell me what happened and how you dealt with it."
+    ],
+    "comparison": [
+      "How have concerts changed over the years in your country? Compare past concerts with concerts today.",
+      "Compare live concerts with watching performances online or on TV. What are the similarities and differences?"
+    ]
+  }
+}

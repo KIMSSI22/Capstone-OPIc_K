@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+*.sqlite3
+.pytest_cache/
+.mypy_cache/
+.coverage*
+
+# Env
+.env
+.env.*
+.venv/
+server/.venv/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Builds
+dist/
+build/
